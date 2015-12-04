@@ -1,0 +1,30 @@
+CRUISE
+Europe tour
+ship 'Aurora'
+16 days
+4 days
+1299$
+EXCURSION
+Beautiful Italia
+3 tours
+6 days
+2 number of meals(breakfast and supper)
+1999$
+EXCURSION
+Friendly Ukraine
+7 tours
+7 days
+3 number of meals(breakfast, dinner and supper)
+1599$
+EXCURSION
+Scientific places
+13 tours
+6 days
+2 number of meals(breakfast, dinner)
+3199$
+EXCURSION
+Romantic France
+3 tours
+6 days
+2 number of meals(breakfast and supper)
+2599$
